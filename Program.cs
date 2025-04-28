@@ -1,7 +1,17 @@
+using Homework_SkillTree.Respository;
+using Homework_SkillTree.Service;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var connectionString = builder.Configuration.GetConnectionString("LocalConnection");
+builder.Services.AddDbContext<MyDbContext>(options => options.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<LedgerRespository>();
+builder.Services.AddScoped<LedgerService>();
 
 var app = builder.Build();
 

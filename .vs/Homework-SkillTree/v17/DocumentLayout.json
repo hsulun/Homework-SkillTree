@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\STUDY\\Homework-SkillTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\service\\ledgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:service\\ledgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\ledgerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\ledgerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\ledgercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\ledgercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\views\\home\\datalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:views\\home\\datalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\migrations\\20250428060358_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:migrations\\20250428060358_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\ledgermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\ledgermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\respository\\ledgerrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:respository\\ledgerrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 792,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:45:45.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:21:06.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250428060358_Init.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Migrations\\20250428060358_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250428060358_Init.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Migrations\\20250428060358_Init.cs",
+              "RelativeToolTip": "Migrations\\20250428060358_Init.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:03:58.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LedgerModel.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerModel.cs",
+              "RelativeDocumentMoniker": "Models\\LedgerModel.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerModel.cs",
+              "RelativeToolTip": "Models\\LedgerModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:02:06.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LedgerViewModel.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LedgerViewModel.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerViewModel.cs",
+              "RelativeToolTip": "Models\\LedgerViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:57:41.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataList.cshtml",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Home\\DataList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DataList.cshtml",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Home\\DataList.cshtml",
+              "RelativeToolTip": "Views\\Home\\DataList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T04:24:47.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LedgerCreateViewModel.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LedgerCreateViewModel.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerCreateViewModel.cs",
+              "RelativeToolTip": "Models\\LedgerCreateViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:21:30.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T03:15:09.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:12:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LedgerService.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Service\\LedgerService.cs",
+              "RelativeDocumentMoniker": "Service\\LedgerService.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Service\\LedgerService.cs",
+              "RelativeToolTip": "Service\\LedgerService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:09:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LedgerRespository.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Respository\\LedgerRespository.cs",
+              "RelativeDocumentMoniker": "Respository\\LedgerRespository.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Respository\\LedgerRespository.cs",
+              "RelativeToolTip": "Respository\\LedgerRespository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:44:18.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:04:35.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T01:00:46.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 632,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 451,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

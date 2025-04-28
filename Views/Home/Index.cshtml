@@ -1,36 +1,46 @@
 @{
     ViewData["Title"] = "Home Page";
+    var CreateModel = (LedgerCreateViewModel)ViewData["LedgerCreateViewModel"];
 }
+@model List<LedgerViewModel>
+
 <div class="container mt-4">
     <div class="card bg-light">
         <div class="card-body">
-            <form>
+            @if (!ViewData.ModelState.IsValid)
+            {
+                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    <li>@error.ErrorMessage</li>
+                }
+            }
+            <form action="/Home/Index" method="post">
                 <div class="row mb-3">
-                    <label for="category" class="col-sm-2 col-form-label">類別</label>
+                    <label for="LedgerCategory" class="col-sm-2 col-form-label">類別</label>
                     <div class="col-sm-10">
-                        <select id="category" class="form-select">
+                        <select id="LedgerCategory" name="LedgerCategory" class="form-select">
                             <option value="" selected>請選擇</option>
-                            <option>支出</option>
-                            <option>收入</option>
+                            <option value="2">支出</option>
+                            <option value="1">收入</option>
                         </select>
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="money" class="col-sm-2 col-form-label">金額</label>
+                    <label for="LedgerAmount" class="col-sm-2 col-form-label">金額</label>
                     <div class="col-sm-10">
-                        <input type="text" class="form-control" id="money" placeholder="金額">
+                        <input type="text" class="form-control" id="LedgerAmount" name="LedgerAmount" placeholder="金額">
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="date" class="col-sm-2 col-form-label">日期</label>
+                    <label for="LedgerDate" class="col-sm-2 col-form-label">日期</label>
                     <div class="col-sm-10">
-                        <input type="text" class="form-control" id="date" placeholder="日期">
+                        <input type="date" class="form-control" id="LedgerDate" name="LedgerDate" placeholder="日期">
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="description" class="col-sm-2 col-form-label">備註</label>
+                    <label for="LedgerNote" class="col-sm-2 col-form-label">備註</label>
                     <div class="col-sm-10">
-                        <textarea class="form-control" id="description" rows="3"></textarea>
+                        <textarea class="form-control" id="LedgerNote" name="LedgerNote" rows="3"></textarea>
                     </div>
                 </div>
                 <div class="row">
@@ -41,39 +51,5 @@
             </form>
         </div>
     </div>
-
-    <div class="row mt-4">
-        <div class="col-md-12">
-            <table class="table table-bordered table-hover">
-                <thead class="table-light">
-                    <tr>
-                        <th>#</th>
-                        <th>類別</th>
-                        <th>日期</th>
-                        <th>金額</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td>支出</td>
-                        <td>2025-01-01</td>
-                        <td>300</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>支出</td>
-                        <td>2025-01-02</td>
-                        <td>1,600</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>支出</td>
-                        <td>2025-01-03</td>
-                        <td>8,00</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </div>
+    @Html.Partial("DataList", Model)
 </div>
