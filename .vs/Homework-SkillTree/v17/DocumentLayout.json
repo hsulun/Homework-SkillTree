@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\GIT\\STUDY\\Homework-SkillTree\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\ledgercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\ledgercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\service\\ledgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:service\\ledgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\ledgerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\ledgerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\ledgercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\ledgercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\views\\home\\datalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,32 +47,12 @@
       "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\ledgermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\ledgermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\respository\\ledgerrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:respository\\ledgerrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|d:\\git\\study\\homework-skilltree\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{223117A0-53CC-44DA-8C9A-669403E374E9}|Homework-SkillTree.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 792,
-          "SelectedChildIndex": 34,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -76,6 +76,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T01:45:45.988Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:31:44.276Z",
               "EditorCaption": ""
             },
             {
@@ -180,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -193,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "20250428060358_Init.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Migrations\\20250428060358_Init.cs",
               "RelativeDocumentMoniker": "Migrations\\20250428060358_Init.cs",
@@ -206,20 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LedgerModel.cs",
-              "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerModel.cs",
-              "RelativeDocumentMoniker": "Models\\LedgerModel.cs",
-              "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerModel.cs",
-              "RelativeToolTip": "Models\\LedgerModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAjwA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:02:06.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "LedgerViewModel.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerViewModel.cs",
               "RelativeDocumentMoniker": "Models\\LedgerViewModel.cs",
@@ -232,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DataList.cshtml",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Home\\DataList.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\DataList.cshtml",
@@ -245,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LedgerCreateViewModel.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Models\\LedgerCreateViewModel.cs",
               "RelativeDocumentMoniker": "Models\\LedgerCreateViewModel.cs",
@@ -258,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -271,33 +271,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAUwBkAAAAuAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T03:12:12.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "LedgerService.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Service\\LedgerService.cs",
               "RelativeDocumentMoniker": "Service\\LedgerService.cs",
               "ToolTip": "D:\\GIT\\STUDY\\Homework-SkillTree\\Service\\LedgerService.cs",
               "RelativeToolTip": "Service\\LedgerService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBkAAAApAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA0wBkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T03:09:07.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LedgerRespository.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Respository\\LedgerRespository.cs",
               "RelativeDocumentMoniker": "Respository\\LedgerRespository.cs",
@@ -310,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -323,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GIT\\STUDY\\Homework-SkillTree\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
