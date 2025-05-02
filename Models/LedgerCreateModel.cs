@@ -2,24 +2,32 @@
 
 namespace Homework_SkillTree.Models
 {
-    public class LedgerCreateViewModel
+    public class LedgerCreateModel
     {
+        /// <summary>
+        /// 類別，0=收入, 1=支出
+        /// </summary>
         [Required(ErrorMessage = "請選擇類別")]
-        // 類別，1=收入, 2=支出
         public string LedgerCategory { get; set; }
 
+        /// <summary>
+        /// 金額 (Range好像不能用decimal.MaxValue，只好將欄位型態改成double)
+        /// </summary>
         [Required(ErrorMessage = "請輸入金額")]
         [Range(0, double.MaxValue, ErrorMessage = "金額不能為0")]
-        // 金額
-        public decimal? LedgerAmount { get; set; }
+        public double? LedgerAmount { get; set; }
 
+        /// <summary>
+        /// 日期
+        /// </summary>
         [Required(ErrorMessage = "請輸入日期")]
         [DataType(DataType.Date, ErrorMessage = "日期格式不正確")]
-        // 日期
         public DateTime? LedgerDate { get; set; }
 
+        /// <summary>
+        /// 備註
+        /// </summary>
         [Required(ErrorMessage = "請輸入備註")]
-        // 備註
         public string LedgerNote { get; set; }
     }
 }

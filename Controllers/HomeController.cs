@@ -18,29 +18,28 @@ namespace Homework_SkillTree.Controllers
 
         public async Task<IActionResult> Index()
         {
+            //因列表頁不在INDEX，所以先將資料存到ViewData，再將ViewData透過PartialView傳到列表頁
+            //PartialView本身好像不會觸發Controller的Action，所以無法直接在PartialView中呼叫Controller的Action
             var data = await _ledgerService.GetLedgersData();
-            return View(data);
+            ViewData["LedgerData"] = data;
+            return View(new LedgerCreateModel());
         }
 
         [HttpPost]
-        public async Task<IActionResult> Index(LedgerCreateViewModel model)
+        [ValidateAntiForgeryToken] //防止跨網站偽造要求
+        public async Task<IActionResult> Index(LedgerCreateModel model)
         {
             if (ModelState.IsValid)
             {
                 //儲存檔案
-                await _ledgerService.SaveLedgersData(model);
-                return RedirectToAction("Index");
+                await _ledgerService.SaveLedgersData(model);             
             }
-            //如果驗證失敗，回到頁面
-            var data = await _ledgerService.GetLedgersData();
-            ViewData["LedgerCreateViewModel"] = model;
-            return View("Index", data);
+            return RedirectToAction("Index");
         }
 
         public IActionResult DataList()
         {
             return View();
-            
         }
 
         public IActionResult Privacy()

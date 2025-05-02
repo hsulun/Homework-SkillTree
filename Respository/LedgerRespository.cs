@@ -19,8 +19,8 @@ namespace Homework_SkillTree.Respository
 
         public async Task AddLedgerAsync(LedgerModel ledger)
         {
+            //移除SaveChangesAsync改由Service執行
             await _context.Ledger.AddAsync(ledger);
-            await _context.SaveChangesAsync();
         }
     }
 }

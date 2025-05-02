@@ -14,10 +14,7 @@ namespace Homework_SkillTree.Respository
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<LedgerModel>(entity =>
-            {
-                entity.Property(x => x.Id).ValueGeneratedOnAdd();
-            });
+            modelBuilder.Entity<LedgerModel>().ToTable("AccountBook");
         }
 
     }

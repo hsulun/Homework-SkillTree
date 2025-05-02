@@ -1,33 +1,49 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Reflection;
 
 namespace Homework_SkillTree.Models
 {
     public class LedgerModel
     {
-        [Key]
-        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        //流水號
-        public int Id { get; set; }
+        /// <summary>
+        /// GUID
+        /// </summary>
+        public Guid Id { get; set; }
 
-        //類別
-        [Required]
-        [StringLength(1)]
-        public string LedgerCategory { get; set; }
+        /// <summary>
+        /// 類別
+        /// </summary>
+        public LedgerCategory Categoryyy { get; set; }
 
-        // 金額
-        [Required]
-        [Column(TypeName = "decimal(18,2)")]
-        public decimal LedgerAmount { get; set; }
+        /// <summary>
+        /// 金額
+        /// </summary>
+        public int Amounttt { get; set; }
 
-        // 備註
-        [Required]
-        [StringLength(250)]
-        public string LedgerNote { get; set; }
+        /// <summary>
+        /// 日期
+        /// </summary>
+        public DateTime Dateee { get; set; }
 
-        //日期
-        [Required]
-        [Column(TypeName ="datetime")]
-        public DateTime LedgerDate { get; set; }
+        /// <summary>
+        /// 備註
+        /// </summary>
+        public string Remarkkk { get; set; }
+
+    }
+
+    public enum LedgerCategory
+    {
+        /// <summary>
+        /// 收入
+        /// </summary>
+        [Display(Name = "收入")]
+        Income = 0,
+        /// <summary>
+        /// 支出
+        /// </summary>
+        [Display(Name = "支出")]
+        Expense = 1
     }
 }
